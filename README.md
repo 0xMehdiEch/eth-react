@@ -1,4 +1,4 @@
-# web3-react (beta)
+# eth-react (beta)
 
 [![CI](https://github.com/NoahZinsmeister/web3-react/actions/workflows/CI.yml/badge.svg)](https://github.com/NoahZinsmeister/web3-react/actions/workflows/CI.yml)
 
